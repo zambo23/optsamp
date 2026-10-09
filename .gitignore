@@ -1,0 +1,6 @@
+
+
+data/*
+
+scr/*.log
+src/__pycache__/*
